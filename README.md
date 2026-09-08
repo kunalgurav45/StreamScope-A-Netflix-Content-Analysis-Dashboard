@@ -62,4 +62,4 @@ Power BI · Power Query · DAX · Data Modeling · Data Visualization · Dashboa
 👤 Author
 Kunal Gurav
 📧 kunalgurav111@gmail.com 
-🔗 LinkedIn: linkedin.com/in/kunalgurav45
+🔗 LinkedIn:  linkedin.com/in/kunalgurav45
