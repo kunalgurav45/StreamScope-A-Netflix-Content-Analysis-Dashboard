@@ -1,7 +1,7 @@
 🎬 StreamScope — A Netflix Content Analysis Dashboard
 An interactive Power BI dashboard analyzing Netflix's global content catalog — genres, ratings, release trends, and production countries — built with a custom dark, Netflix-inspired theme.
 
-![Dashboard Preview](StreamScope  A Netflix Content Analysis Dashboard.png)
+![Dashboard Preview](StreamScope%20A%20Netflix%20Content%20Analysis%20Dashboard.png)
 
 📌 Overview
 StreamScope analyzes ~6,000 Netflix titles to surface patterns in content type, genre distribution, age certification, release trends, and global production — helping visualize how Netflix's catalog has evolved and where its content comes from.
